@@ -1,0 +1,99 @@
+# Budget Tracker App (Kotlin +  SQLite database )
+
+## 📱 Overview
+The **Budget Tracker App** is a fully offline Android application built with Kotlin and RoomDB to help users track their expenses efficiently. Users can log in, create categories, add expenses (with optional photos), and set monthly spending goals. The app provides detailed reports on expenses per category over user-selectable periods and uses the South African Rand (R) as the currency.
+
+---
+
+## ✅ Features
+
+- **User Authentication**
+  - Log in using a secure username and password.
+
+- **Category Management**
+  - Create and manage categories for budgeting and expense tracking.
+
+- **Expense Entry**
+  - Add new expenses with:
+    - Date
+    - Start and End Time
+    - Description
+    - Category
+    - Optional photo attachment
+
+- **Goal Setting**
+  - Set **minimum** and **maximum** monthly spending goals.
+
+- **Expense Report**
+  - View expense entries over a custom time range.
+  - View photos attached to expense entries.
+  - View total spending per category over a selected time period.
+
+- **Data Persistence**
+  - All data is stored locally using **RoomDB (SQLite)**.
+
+- **Robust UI**
+  - User-friendly design based on Figma prototype.
+  - Input validation to avoid crashes and invalid data.
+
+---
+
+## 🛠 Tech Stack
+
+- **Language**: Kotlin
+- **IDE**: Android Studio
+- **Database**: Room (SQLite)
+- **UI Design**: Jetpack Compose/XML (based on Figma screenshots)
+- **Media Handling**: Optional photo attachments using ImagePicker
+- **Authentication**: Local username-password validation
+
+---
+
+## 🔧 Installation & Running
+
+1. **Clone the Repository** or extract the zipped folder.
+2. Open in **Android Studio**.
+3. Make sure **Gradle** sync completes.
+4. Run the project on a device or emulator.
+
+---
+
+## 📸 Screenshots
+
+> Screenshots of the Figma design can be found in the `/screenshots` folder.
+
+---
+
+## 💡 Notes
+
+- All monetary values are displayed in **South African Rand (R)**.
+- The app works completely offline using local RoomDB storage.
+- Photos are stored in internal storage and linked to individual expense records.
+
+---
+
+## 📂 Folder Structure
+
+```bash
+BudgetTrackerApp/
+│
+├── app/                   # Kotlin source code
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   └── res/
+│   │   │       ├── layout/        # XML layouts
+│   │   │       ├── drawable/      # Icons, image placeholders
+│   │   │       └── values/        # Strings, themes
+│
+├── screenshots/           # Figma-based UI design references
+├── README.md              # You're reading it!
+
+🎥 Demo Video
+Ensure your demonstration includes:
+
+A clear walk-through of each feature.
+
+A voice-over explaining what’s being shown.
+
+Compressed video (e.g., via Handbrake) for easy upload to Arc.

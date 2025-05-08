@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_button_outline_background.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/button_outline_background.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_dialog_set_budget.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/dialog_set_budget.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_item_transaction.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_entertainment.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/entertainment.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_notification.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_utilities.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/utilities.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_notification.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_edit_wallet.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_edit_wallet.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_camera.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_dialog_add_funds.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/dialog_add_funds.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_login.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_edit_text_background.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/font_poppins_bold.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/font/poppins_bold.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_add_spending.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_add_spending.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_add_circle.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_dialog_view_photo.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/dialog_view_photo.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_groceries.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/groceries.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_savings.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/savings.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_button_white_background.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/button_white_background.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_card_background.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_menu.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_category.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_category.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_splash.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_button_outline_black.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/button_outline_black.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_mastercard_logo.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/mastercard_logo.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_signup.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_entertainment.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_entertainment.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/font_poppins_regular.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/font/poppins_regular.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_other.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/other.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_add_wallet.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_add_wallet.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/font_poppins_bold_font.ttf.flat",
+        "source": "com.example.fintrack.app-main-50:/font/poppins_bold_font.ttf"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_statistics.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_wallet.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_fintrack_logo.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/fintrack_logo.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/menu_main_menu.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/font_poppins_medium_font.ttf.flat",
+        "source": "com.example.fintrack.app-main-50:/font/poppins_medium_font.ttf"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_activity_expense_report.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/activity_expense_report.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_add.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/color_bottom_nav_color.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/font_poppins_regular_font.ttf.flat",
+        "source": "com.example.fintrack.app-main-50:/font/poppins_regular_font.ttf"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_stats.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_stats.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/layout_item_notification.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_food.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/food.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/font_poppins_medium.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/font/poppins_medium.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_movies.png.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/movies.png"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_food.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_food.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_ic_home.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_transport.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/transport.xml"
+    },
+    {
+        "merged": "com.example.fintrack.app-merged_res-48:/drawable_button_background.xml.flat",
+        "source": "com.example.fintrack.app-main-50:/drawable/button_background.xml"
+    }
+]
