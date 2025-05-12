@@ -67,7 +67,7 @@ BudgetTrackerApp/
 ├── README.md              # You're reading it!
 
 🎥 Demo Video Youtube
-Ensure your demonstration includes: https://youtu.be/Y2m-gXKFEMw
+Ensure your demonstration includes: https://youtu.be/Z6eU78hAav0
 
 A clear walk-through of each feature.
 
@@ -75,3 +75,5 @@ A voice-over explaining what’s being shown.
 
 Compressed video (e.g., via Handbrake) for easy upload to Arc.
 #GITHUB LINK : https://github.com/st10174327/FinTrack.git
+Figma: https://www.figma.com/design/jeO75R66yExelcO1XlgEqv/FinTrack-OPSC?node-id=0-1&t=tMRSTvH7dXcwesMk-1 
+Canva edits: https://www.canva.com/design/DAGnOugsKEE/SHzyLr-Yh3gOSrh3XabMDw/edit?utm_content=DAGnOugsKEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
